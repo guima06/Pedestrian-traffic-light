@@ -38,14 +38,14 @@ The push button is connected to a digital input and is used to request the pedes
 
 ## Pin Configuration
 
-| Component | Arduino Pin |
+| Component - Arduino Pin |
 
-| Vehicle Red LED | 8 |
-| Vehicle Yellow LED | 9 |
-| Vehicle Green LED | 10 |
-| Pedestrian Red LED | 11 |
-| Pedestrian Green LED | 12 |
-| Push Button | 2 |
+| Vehicle Red LED - 8 |
+| Vehicle Yellow LED - 9 |
+| Vehicle Green LED - 10 |
+| Pedestrian Red LED - 11 |
+| Pedestrian Green LED - 12 |
+| Push Button - 2 |
 
 ## Control Logic
 
